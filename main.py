@@ -1,7 +1,6 @@
 #import librarysL
 from tkinter import *
 from json import load as jsonLoad
-from random import randint, choice
 from time import sleep
 
 tk = Tk() #tk is master.
